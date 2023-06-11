@@ -1,6 +1,6 @@
 # 中国大陆银行卡 card bin
 
-card_bin.csv ：银行卡卡bin，已全部通过阿里接口扫描通过，将校验不合格的已全部删掉。
+bin.csv ：银行卡卡bin，已全部通过阿里接口扫描通过，将校验不合格的已全部删掉。
 
 alipay校验银行卡接口地址点[这里](https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?_input_charset=utf-8&cardNo=6221501111111111111&cardBinCheck=true)
 
